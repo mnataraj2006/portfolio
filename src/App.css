@@ -1,0 +1,4 @@
+/* Remove default massive padding if present, let utility classes handle it */
+#root {
+  width: 100%;
+}
